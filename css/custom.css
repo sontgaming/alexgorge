@@ -1,0 +1,46 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+#asseenin {
+  background-color: transparent;
+  margin-bottom: 0px;
+}
+
+#about {
+  margin-top: 0px !important;
+}
+
+.page-title {
+  border-bottom: 0;
+  padding-bottom: 0px;
+}
+
+#contact-form {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+#contact-heading {
+  font-size: 50px;
+}
+
+#contact-subheading {
+  font-size: 15px !important;
+  margin-top: 5px;
+  margin-bottom: 30px;
+}
+
+#copyrights {
+  margin-top: 45px;
+}
+html {
+  scroll-behavior: smooth !important;
+}
+
+.custom-width {
+  max-width: 60re;
+}
